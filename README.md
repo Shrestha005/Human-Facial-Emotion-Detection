@@ -23,8 +23,8 @@ Git (for version control)
 Minimum 4GB RAM
 Webcam (for real-time emotion detection)
 
-Install Dependencies
+Install Dependencies: 
 pip install -r requirements.txt
 
-Run the Real-Time Emotion Detector
+Run the Real-Time Emotion Detector: 
 python real_time.py
